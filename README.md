@@ -1,5 +1,4 @@
-# obsidian-design-system-community-file
-
+![Cover](https://user-images.githubusercontent.com/46250921/204841676-521dcfe1-e935-4944-b3b4-ea62ffdbaac8.png)
 
 Figma
 https://www.figma.com/file/7cd9OfxhgJDWWszKy0V9Vf/Obsidian-Design-System?node-id=0%3A1
