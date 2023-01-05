@@ -1,7 +1,7 @@
 ![Cover](https://user-images.githubusercontent.com/46250921/210615846-6cb06a11-1cae-41cb-95bd-9a1b298a392f.png)
 
 # Overview
-This is a community built, component and styles library hosted on Figma for Obsidian. It is currently being maintained by [[Johnny ✨]].
+This is a community built, component and styles library hosted on Figma for Obsidian. It is currently being maintained by Johnny ✨.
 
 # Usage
 Click the "Get a copy" button on this page: [Obsidian Design System | Figma Community](https://www.figma.com/community/file/1172227539881210762) to download a draft of the latest version of the design system.
