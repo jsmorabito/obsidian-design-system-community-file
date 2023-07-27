@@ -1,5 +1,4 @@
-![Cover](https://user-images.githubusercontent.com/46250921/211121445-d9b73a79-eea1-4ca7-a9b5-6425298881dd.png)
-
+![Cover](https://github.com/jsmorabito/obsidian-design-system-community-file/assets/46250921/6ea886d7-f93a-4753-a0cc-78f45c1f320f)
 
 # Overview
 This is a community built, component and styles library hosted on Figma for Obsidian. It is currently being maintained by Johnny ✨.
