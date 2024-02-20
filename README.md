@@ -9,3 +9,6 @@ Click the "Get a copy" button on this page: [Obsidian Design System | Figma Com
 # Contributing
 - Send draft Figma file with changes to johnny1093#3137 on Discord or e-mail to jmorabito10@gmail.com  
 - Post issues on [GitHub - jsmorabito/obsidian-design-system-community-file](https://github.com/jsmorabito/obsidian-design-system-community-file) with questions, ideas, requests, etc.
+
+# Support
+[Buy me a coffee](https://www.buymeacoffee.com/johnny1093)
